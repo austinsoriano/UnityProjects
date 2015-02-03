@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Tutorial5/Assets/CreateEnviroment.js">
+    <Files>
+      <File FileName="../Tutorial5/Assets/CollisionColor.js" Line="23" Column="2" />
+      <File FileName="../Tutorial5/Assets/CreateEnviroment.js" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
